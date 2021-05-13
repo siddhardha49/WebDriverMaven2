@@ -24,6 +24,7 @@ public class LoginTest {
 		String title=driver.getTitle();
 		System.out.println(title);
 		System.out.println("hello");
+		System.out.println("it is a check");
 	}
 
 	@AfterSuite
